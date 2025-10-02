@@ -1,7 +1,7 @@
 
 # Kubernoia
 
-Kubernoia - A rust based project for container orcehstation with AI based auto scaling
+Kubernoia - A python based project for container orcehstation with AI based auto scaling
 
 ## Features
 
