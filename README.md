@@ -1,7 +1,7 @@
 
 # Kubernoia
 
-Kubernoia - A golang based project for container orcehstation with AI based auto scaling
+Kubernoia - A golang based project for container orcehstation simulators for learners with AI based auto scaling
 
 ## Features
 
