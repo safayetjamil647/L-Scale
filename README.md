@@ -1,5 +1,5 @@
 
-# Kubernoia
+# L-Scale
 
 Kubernoia - A golang based project for container orcehstation simulators for learners with AI based auto scaling
 
